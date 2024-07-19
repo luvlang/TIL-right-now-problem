@@ -1,3 +1,16 @@
+# TIL with jupyter notebook
+- 경험 위주.
+  1. What Problem? - 어떤 문제가 있었는지
+  2. What I’ve tried - 내가 시도해본 것들
+  3. How to Solve - 어떻게 해결했는지
+  4. What I learned - 무엇을 새롭게 알았는지
+
+## 기록은 어떻게?
+- 기술 동향, 최신 트렌드 (도입/발전 동향, 커뮤니티 방향)
+- 툴, 프레임워크, 라이브러리 사용법 및 적용사례
+- 실무/프로젝트에서 마주쳤던 문제와 해결법
+- 진행하고 있는 프로젝트
+
 ## 커리큘럼과 시간계획
 - CS (8-11)
   - CS
@@ -15,7 +28,19 @@
   - 병렬컴퓨팅
   - 시뮬레이션
 - FullStack (11-14)
-  - 
+  - 점프투스프링
+  - 스프링인액션
+  - 리액트
+  - node.js
+  - Next.js
+  - mySQL
+  - mongoDB
+  - k8s
+  - Docker
+  - AWS
+  - NginX
+  - 점프투장고
+  - 점프투fastapi
 - ML (14-17)
   - 핸즈온머신러닝
   - 밑시딥1
@@ -48,15 +73,3 @@
   - 해커스 실전1
   - 해커스 실전2
   - 해커스 실전3
-
-## 기록은 어떻게?
-- 기술 동향, 최신 트렌드 (도입/발전 동향, 커뮤니티 방향)
-- 툴, 프레임워크, 라이브러리 사용법 및 적용사례
-- 실무/프로젝트에서 마주쳤던 문제와 해결법
-- 진행하고 있는 프로젝트
-- TIL with jupyter notebook
-  - 경험 위주.
-    1. What Problem?
-    2. What I’ve tried
-    3. How to Solve
-    4. What I learned
